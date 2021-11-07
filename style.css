@@ -1,0 +1,10 @@
+.header {
+
+    text-align: center;
+}
+
+.taches1 {
+
+    display: flex;
+    justify-content: space-around;
+}
